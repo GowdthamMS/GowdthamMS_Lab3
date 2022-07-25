@@ -57,7 +57,7 @@ public class FindSumofPair {
 		root = findSP.insert(root, 50);
 		root = findSP.insert(root, 70);
 
-		int sum = 40;
+		int sum = 130;
 		findSP.findPairWithGivenSum(root, sum);
 	}
 }
